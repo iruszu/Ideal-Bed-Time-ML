@@ -1,0 +1,1 @@
+BetterRestApp is a SwiftUI-based iOS application that uses machine learning to help users find their ideal bedtime based on their desired wake-up time, preferred sleep duration, and daily coffee intake. Built with CoreML, the app integrates a trained sleep prediction model to personalize recommendations and promote healthier sleep habits.
